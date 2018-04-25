@@ -1,0 +1,8 @@
+./util
+.vscode/
+*.DS_Store
+
+.github/
+.gitignore
+
+index.ts
